@@ -16,7 +16,7 @@
         </div>
         <div class="mb-3">
             <label for="phone" class="form-label">Phone</label>
-            <input type="phone" class="form-control" id="phone" name="phone" aria-describedby="phoneHelp" placeholder="phone">
+            <input type="tel" class="form-control" id="phone" name="phone" aria-describedby="phoneHelp" placeholder="phone">
         </div>
         <button type="submit" name="submit" class="btn btn-primary mb-3">Create contact</button>
     </form>
